@@ -4,3 +4,4 @@
   - Obtener informacion sobre Domm
   - Buscar mas personas que se unan al equipo
   - Mejorar el combate
+  - Entrenar al equipo
